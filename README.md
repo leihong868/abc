@@ -44,7 +44,7 @@
 
 进入后会看到默认代码：
 
-```javascript
+javascript
 export default {
   async fetch(request) {
     return new Response("Hello World!");
