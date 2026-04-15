@@ -37,6 +37,7 @@
 然后点击：
 
 👉 **Create Worker（创建 Worker）**
+先创建worker再重新编辑更换脚本
 
 ---
 
